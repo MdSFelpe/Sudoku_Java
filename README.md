@@ -68,6 +68,6 @@ java Main "0;0;5,true" "0;1;3,false" "0;2;0,false" # ... (mais 78 argumentos)
 👤 Autor
 Fellype Augusto de Oliveira Santos
 
-GitHub: [[Link para o seu perfil no GitHub](https://github.com/MdSFelpe)]
+GitHub: [(https://github.com/MdSFelpe)]
 
-LinkedIn: [[Link para o seu perfil no LinkedIn](https://www.linkedin.com/in/fellype-augusto-1b145326b/)]
+LinkedIn: [(https://www.linkedin.com/in/fellype-augusto-1b145326b/)]
